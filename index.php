@@ -19,14 +19,14 @@ $carrinho=new \Classes\ClassCarrinho();
     </div>
 
     <div class="carrinho">
-        Você tem <?php echo $carrinho->getQuantity(); ?> produto(s) no carrinho. <a href="https://paulistar.com.br/mercadopago/controllers/CarrinhoController.php?action=clear">Esvaziar Carrinho</a>
+        Você tem <?php echo $carrinho->getQuantity(); ?> produto(s) no carrinho. <a href="https://mercado-pago-paulistar.herokuapp.com/controllers/CarrinhoController.php?action=clear">Esvaziar Carrinho</a>
     </div>
 
     <div class="product">
         <div class="product_title">Pen Drive</div>
         <div class="product_image"><img src="img/pendrive.jpg" alt=""></div>
         <div class="product_desc">Pen Drive de 16gb</div>
-        <div class="product_btn"><a href="https://paulistar.com.br/mercadopago/controllers/CarrinhoController.php?action=add&product=pendrive&price=10&id=9485906696">Adicionar ao Carrinho</a></div>
+        <div class="product_btn"><a href="https://mercado-pago-paulistar.herokuapp.com/controllers/CarrinhoController.php?action=add&product=pendrive&price=10&id=9485906696">Adicionar ao Carrinho</a></div>
     </div>
 
 
@@ -34,7 +34,7 @@ $carrinho=new \Classes\ClassCarrinho();
         <div class="product_title">Celular</div>
         <div class="product_image"><img src="img/celular.jpg" alt=""></div>
         <div class="product_desc">Celular Sony</div>
-        <div class="product_btn"><a  href="https://paulistar.com.br/mercadopago/controllers/CarrinhoController.php?action=add&product=celular&price=200&id=1334124134">Adicionar ao Carrinho</a></div>
+        <div class="product_btn"><a  href="https://mercado-pago-paulistar.herokuapp.com/controllers/CarrinhoController.php?action=add&product=celular&price=200&id=1334124134">Adicionar ao Carrinho</a></div>
     </div>
 
 </body>

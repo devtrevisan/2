@@ -12,4 +12,4 @@ if ($_GET['action'] == 'add') {
 
 var_dump($_SESSION);
 
-header("location: https://paulistar.com.br/mercadopago/views/checkout.php");
+header("location: https://mercado-pago-paulistar.herokuapp.com/views/checkout.php");

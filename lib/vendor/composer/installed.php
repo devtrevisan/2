@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '49599e8bd8e6591d6666af2f9874bbe4934cac50',
     'name' => 'wef/mp',
   ),
   'versions' => 
@@ -112,12 +112,12 @@
     ),
     'wef/mp' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '49599e8bd8e6591d6666af2f9874bbe4934cac50',
     ),
   ),
 );

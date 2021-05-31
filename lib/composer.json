@@ -9,5 +9,10 @@
     ],
     "require": {
         "mercadopago/dx-php": "^2.3"
+    },
+    "autoload":{
+        "psr-7":{
+            "Classes\\":"../class/"
+        }
     }
 }
