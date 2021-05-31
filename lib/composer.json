@@ -1,0 +1,13 @@
+{
+    "name": "wef/mp",
+    "description": "Mercado Pago",
+    "authors": [
+        {
+            "name": "PauliStar",
+            "email": "agenciapaulistar@gmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^2.3"
+    }
+}
